@@ -1,3 +1,3 @@
 
-BRE Library Project
+BRE Library Project is
 
