@@ -1,0 +1,8 @@
+#codeblocks project
+obj/
+bin/
+*.layout
+*.depend
+*.cbp
+local-tdd/
+crypto/
